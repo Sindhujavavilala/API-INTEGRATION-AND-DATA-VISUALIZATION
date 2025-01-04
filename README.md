@@ -12,11 +12,11 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-**OVERVIEW**
+## OVERVIEW
 
 This project demonstrates how to fetch and visualize weather data for a city using the OpenWeatherMap API. By leveraging Python for API integration and data visualization, the script provides a 5-day weather forecast in an interactive, graphical format. The goal is to create an easy-to-use tool for extracting real-time weather data and generating insightful visualizations.
 
-**FEATURES**
+## FEATURES
 
  - Fetches real-time weather data for any city worldwide.
    
@@ -26,7 +26,7 @@ This project demonstrates how to fetch and visualize weather data for a city usi
    
  - Incorporates error handling to ensure smooth operation and clear feedback for incorrect city names or invalid API keys.
 
-**TOOLS AND TECHNOLOGIES USED**
+## TOOLS AND TECHNOLOGIES USED
 
 **Python**: The programming language used to build the entire application.
 
@@ -38,7 +38,7 @@ This project demonstrates how to fetch and visualize weather data for a city usi
 
 **Requests Library**: A Python library for sending HTTP requests to interact with APIs.
 
-**RESOURCES**
+## RESOURCES
 
 **OpenWeatherMap API Documentation**: Used to understand API endpoints, parameters, and the JSON response structure.
 
@@ -50,7 +50,7 @@ This project demonstrates how to fetch and visualize weather data for a city usi
 
 **Seaborn and Matplotlib Documentation**: Used for creating the line plot and customizing its aesthetics.
 
-**LIBRARIES USED**
+## LIBRARIES USED
 
 **Requests**: To send HTTP requests and receive responses from the OpenWeatherMap API.
 
@@ -59,7 +59,7 @@ This project demonstrates how to fetch and visualize weather data for a city usi
 **Seaborn**: To enhance the aesthetics and readability of the graph.
 
 
-**OUTPUT**
+## OUTPUT
 
 The output is a line graph displaying the 5-day temperature forecast for a user-specified city. The graph includes:
 - A title indicating the city name.
@@ -72,7 +72,7 @@ The output is a line graph displaying the 5-day temperature forecast for a user-
   
 - The graph helps users quickly understand temperature variations over time, making it a practical tool for weather analysis.
 
-**CHALLENGES FACED**
+## CHALLENGES FACED
 
 **Unauthorized API Requests**: Ensured the API key was valid and active.
 
@@ -80,7 +80,7 @@ The output is a line graph displaying the 5-day temperature forecast for a user-
 
 **Formatting Data**: Managed nested JSON data to extract and format timestamps and temperatures.
 
-**HOW THE OUTPUT WAS GENERATED**
+## HOW THE OUTPUT WAS GENERATED
 
 **Data Extraction**:
  - Weather data (temperature, timestamps) was fetched in JSON format.
@@ -95,11 +95,11 @@ The output is a line graph displaying the 5-day temperature forecast for a user-
    
  - Outputs a graph based on the fetched data for the given city.
 
-**CONCLUSION**
+## CONCLUSION
 
 This project highlights the seamless integration of APIs and data visualization libraries to create a practical tool. The combination of OpenWeatherMap, Matplotlib, and Seaborn makes it easy to fetch, process, and visualize weather data in a meaningful way.
 
-**OUTPUT OF THE TASK**
+## OUTPUT OF THE TASK
 
  - ![OUTPUT1(HYDERABAD)](https://github.com/user-attachments/assets/ca51a029-8990-4b38-9647-3c35bc979972)
  - ![image](https://github.com/user-attachments/assets/e9d79c10-3ad6-4098-883b-bb6baccfb472)
