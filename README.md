@@ -69,4 +69,4 @@ This project highlights the seamless integration of APIs and data visualization 
 **OUTPUT OF THE TASK**
 
  - ![OUTPUT1(HYDERABAD)](https://github.com/user-attachments/assets/ca51a029-8990-4b38-9647-3c35bc979972)
- - 
+ - ![image](https://github.com/user-attachments/assets/e9d79c10-3ad6-4098-883b-bb6baccfb472)
